@@ -1,0 +1,19 @@
+body
+{
+    background-color: green;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+   margin:250px;
+
+}
+span{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+    
+   
+}
